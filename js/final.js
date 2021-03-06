@@ -21,7 +21,7 @@ function createMap(){
 
     //add OSM base tilelayer
     var Esri_WorldTopoMap =  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a> AnciWeb Wildfire Data, USFS Spatial Data, Oregon Spatial Data Library, US Drought Monitor Spatial Data, Homeland Infrastructure Foundation-Level Power Transmssion Lines Spatial Data, Bureau of Land Management',
+	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a> AnciWeb Wildfire Data, USFS Spatial Data, Oregon Spatial Data Library, US Drought Monitor Spatial Data, Homeland Infrastructure Foundation-Level Power Transmssion Lines Spatial Data, Bureau of Land Management, W3 Schools CSS Loader',
   detectRetina: true,
        minZoom:7
 
